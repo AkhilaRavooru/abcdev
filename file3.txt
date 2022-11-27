@@ -1,0 +1,4 @@
+File for checking ignore
+Try on a git ignore cmd
+Adding lines
+To check status
